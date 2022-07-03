@@ -1,0 +1,15 @@
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\obj\Debug\net6.0\пример.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\obj\Debug\net6.0\пример.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\obj\Debug\net6.0\пример.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\obj\Debug\net6.0\пример.AssemblyInfo.cs
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\obj\Debug\net6.0\пример.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\bin\Debug\net6.0\пример.exe
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\bin\Debug\net6.0\пример.deps.json
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\bin\Debug\net6.0\пример.runtimeconfig.json
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\bin\Debug\net6.0\пример.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\bin\Debug\net6.0\пример.pdb
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\obj\Debug\net6.0\пример.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\obj\Debug\net6.0\refint\пример.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\obj\Debug\net6.0\пример.pdb
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\obj\Debug\net6.0\пример.genruntimeconfig.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\пример\obj\Debug\net6.0\ref\пример.dll

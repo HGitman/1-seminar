@@ -1,0 +1,15 @@
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\bin\Debug\net6.0\1 метод.exe
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\bin\Debug\net6.0\1 метод.deps.json
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\bin\Debug\net6.0\1 метод.runtimeconfig.json
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\bin\Debug\net6.0\1 метод.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\bin\Debug\net6.0\1 метод.pdb
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\obj\Debug\net6.0\1 метод.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\obj\Debug\net6.0\1 метод.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\obj\Debug\net6.0\1 метод.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\obj\Debug\net6.0\1 метод.AssemblyInfo.cs
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\obj\Debug\net6.0\1 метод.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\obj\Debug\net6.0\1 метод.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\obj\Debug\net6.0\refint\1 метод.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\obj\Debug\net6.0\1 метод.pdb
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\obj\Debug\net6.0\1 метод.genruntimeconfig.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\C# 3 kлекция\1\1 метод\obj\Debug\net6.0\ref\1 метод.dll
